@@ -2,7 +2,9 @@
 
 
 ## About NGLeadersDB
-...coming soon
+This is an API providing you with Curated
+
+
 ## License
 
-The NGLeadersDB is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The NGLeaderDB is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
