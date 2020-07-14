@@ -6,7 +6,7 @@ This is an API providing you with Curated list of Nigerian leaders in all sector
 
 It aslo offers flexible ways of generating these lists..
 
-See [MIT license](https://opensource.org/licenses/MIT).
+See [NGLEADERSDB](https://ngleadersdb.herokuapp.com).
 
 
 ## License
